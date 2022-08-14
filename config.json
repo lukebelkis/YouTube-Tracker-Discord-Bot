@@ -1,0 +1,19 @@
+{
+    "bot-prefix": "!",
+    "youtube-channel-id": "UC-pm_JcVyaEXAMPLEN5CGww",
+    "google-api-key": "AIzaSyDbzS6oH1FCarEXAMPLE8pRDgsN6bJqnzA",
+    "channels": {
+        "views": 1001856728192782507,
+        "subs": 1001856610257358928,
+        "videos": 1005325132287455242
+    },
+    "formats": {
+        "views": "\ud83c\udfa5 \u2022 YT Views: {}",
+        "subs": "\ud83d\udcfa \u2022 YT Subs: {}",
+        "videos": "\ud83d\udcf8 \u2022 YT Videos: {}"
+    },
+    "status": {
+        "type": "watching",
+        "value": "yt!help"
+    }
+}
